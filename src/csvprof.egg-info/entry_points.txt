@@ -1,0 +1,2 @@
+[console_scripts]
+csvprof = csvprof.cli:main
